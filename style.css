@@ -34,10 +34,11 @@ h1{
     text-shadow: 2px 2px 3px rgb(21, 21, 51);
 }
 .content {
-    font-size: 1.5rem;
+    font-size:1.8rem;
     font-weight: bold;
     color: white;
-    text-shadow: 1px 1px 2px rgb(21, 21, 51);
+    letter-spacing: 1.5px;
+    text-shadow: 1px 1px 1px rgb(14, 14, 41);
     
 }
 .background {
