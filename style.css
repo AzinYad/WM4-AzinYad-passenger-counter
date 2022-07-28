@@ -46,7 +46,7 @@ h1{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    filter: blur(2px);
+    filter: blur(3px);
     height: 30vh;
     margin: 3em auto;
     padding: 3em;
